@@ -1,4 +1,4 @@
-
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6be5c1c180753df1d68c6736dd800baf.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 <a href="https://picasion.com/gl/gCd7/"><img src="https://i.picasion.com/gl/92/gCd7.gif" width="472" height="30" border="0" /></a><br /><a href=""></a>
 - 👀 Estudo na area de BackEnd ...
 
@@ -20,7 +20,3 @@
 </div>
 
 <div style="display: inline_block"><br>
-
-
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  
